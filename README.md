@@ -17,8 +17,13 @@ warning before installing. That is expected.
 
 ## Update
 
-Download and install again. The new version replaces the old one and you stay
-signed in. Your flat's data lives on the server, so nothing is lost.
+From version 1.3.0 the app tells you when a newer version is ready: tap
+**Update** and it downloads and installs it. The first time, Android asks you
+to allow FlatMates to install apps; switch that on and come back.
+
+On an older version, download and install again from the link above. Either
+way the new version replaces the old one and you stay signed in. Your flat's
+data lives on the server, so nothing is lost.
 
 ## Good to know
 
